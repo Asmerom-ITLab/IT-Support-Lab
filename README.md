@@ -94,10 +94,13 @@ IT-Support-Lab/
 ## Gerelateerde repository
 
 Mijn volledige System Administrator portfolio:
+
 **github.com/Asmerom-ITLab/IT-Home-Lab**
 
 ---
 
 **Auteur:** Asmerom
+
 **LinkedIn:** linkedin.com/in/asmerom-m-aa6709294
+
 **Status:** In ontwikkeling
